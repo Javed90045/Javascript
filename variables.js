@@ -1,5 +1,5 @@
 // variable is just like a container that holds some value
-// In JavaScript there is 3 types of variables let,var and const
+// In JavaScript there is 3 ways to declare variables let,var and const
 // example: let a = "Javed"; 
 // "a" is an Identifier which holds value "javed"
 // The value of javascript variable can changed during the execution of program
