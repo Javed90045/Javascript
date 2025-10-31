@@ -92,6 +92,26 @@ console.log("Right Shift (>>) :", p >> 1);  // 0101 >> 1 → 0010 → 2
 
 console.log("**********6. Ternary (Conditional) Operator**********");
 // 6. Ternary (Conditional) Operator
+// Used as a shortcut for if...else.
+let age = 18;
+let result = (age >= 18) ? "Adult" : "Minor";
+console.log(result); // "Adult"
+
+console.log("********** 7. Type Operators **********");
+// 7. Type Operators
+// Used to check or convert data types.
+// | Operator     | Description                         | Example                | Result     |
+// | ------------ | ----------------------------------- | ---------------------- | ---------- |
+// | `typeof`     | Returns data type                   | `typeof "Javed"`       | `"string"` |
+// | `instanceof` | Checks if object belongs to a class | `arr instanceof Array` | `true`     |
+
+console.log("********** 8. Spread and Rest Operators **********");
+// 8. Spread and Rest Operators
+// Introduced in ES6.
+// | Operator | Description    | Example                             |
+// | -------- | -------------- | ----------------------------------- |
+// | `...`    | Spread or Rest | `let arr2 = [...arr1]` (copy array) |
+
 
 
 
