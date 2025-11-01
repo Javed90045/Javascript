@@ -53,4 +53,5 @@ switch(age)
     default: console.log('invalid day');
 }
 // 5. Ternary statement: A shorthand for if-else that evaluates a condition and returns a value in a single line.
+// condition ? exp1 : exp2;
 age>=18? console.log("you can vote") : console.log("You can not vote");
