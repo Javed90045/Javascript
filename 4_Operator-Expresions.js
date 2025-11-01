@@ -112,6 +112,3 @@ console.log("********** 8. Spread and Rest Operators **********");
 // | -------- | -------------- | ----------------------------------- |
 // | `...`    | Spread or Rest | `let arr2 = [...arr1]` (copy array) |
 
-
-
-
